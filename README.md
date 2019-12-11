@@ -7,4 +7,5 @@ More information about GTFS:
 
 More information about GTFS-static:
 [https://developers.google.com/transit/gtfs](https://developers.google.com/transit/gtfs)  
+
 Please Note: Git LFS needs to be installed, before running the Git clone command, otherwise the pointer files will only be cloned. 
